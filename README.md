@@ -123,7 +123,7 @@ Join Our Discord server [here](https://discord.gg/gy4SWhpaPU)
 Check out for a couple of **[donation methods here]((https://docs.osmedeus.org/donation/))** to get a **[premium package](https://docs.osmedeus.org/premium/)**
 
 <p align="center">
-  <img alt="Osmedeus" src="https://raw.githubusercontent.com/osmedeus/assets/main/premium-package.gif" height="140" />
+  <img alt="Osmedeus" src="https://raw.githubusercontent.com/osmedeus/assets/main/premium-package.gif" />
 </p>
 
 
